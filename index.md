@@ -7,7 +7,7 @@ title: WikiDBs
 
 WikiDBs is an open-source corpus of relational databases based on data from [Wikidata](https://www.wikidata.org/). Each database consists of mutliple tables that are connected by foreign keys.
 
-To give a first impression of WikiDBs, we offer a couple of sample databases for download here: [download Sample_WikiDBs.zip](https://github.com/WikiDBs/wikidbs.github.io/blob/main/data/Sample_WikiDBs.zip)
+To give a first impression of WikiDBs, we offer a couple of sample databases for download here: [download Sample_WikiDBs.zip](https://github.com/WikiDBs/wikidbs.github.io/blob/main/data/Sample_WikiDBs.zip "download")
 
 The full dataset will be available for download soon.
 
