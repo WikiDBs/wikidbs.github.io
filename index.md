@@ -2,12 +2,17 @@
 
 WikiDBs is an open-source corpus of relational databases based on data from [Wikidata](https://www.wikidata.org/). Each database consists of mutliple tables that are connected by foreign keys.
 
-To give a first impression of WikiDBs, we offer a couple of sample databases for download here: [Sample_WikiDBs.zip](data/Sample_WikiDBs.zip)
+## Full Dataset
+The full dataset will be available for download via zenodo soon.
 
-The full dataset will be available for download soon.
+## Dataset Sample
+To give a first impression of WikiDBs, we offer a couple of sample databases for download here: [Sample_WikiDBs.zip](data/Sample_WikiDBs.zip)
 
 ## License
 We release WikiDBs under the [Creative Commons Attributions 4.0 International](https://creativecommons.org/licenses/by/4.0/) license (CC BY 4.0). Information regarding the license of data in Wikidata can be found [on this page](https://www.wikidata.org/wiki/Wikidata:Licensing).
+
+## Publication
+The link and citation to our publication will be published soon.
 
 ## About
 WikiDBs is developed by Liane Vogel and Carsten Binnig from the Systems Group at the Technical University of Darmstadt, Germany. 
