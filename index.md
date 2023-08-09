@@ -1,8 +1,3 @@
----
-layout: page
-title: WikiDBs
----
-
 # WikiDBs: A Corpus Of Relational Databases From Wikidata
 
 WikiDBs is an open-source corpus of relational databases based on data from [Wikidata](https://www.wikidata.org/). Each database consists of mutliple tables that are connected by foreign keys.
