@@ -1,5 +1,5 @@
 ---
 ---
-$primary: #16a085;
+// $primary: #16a085;
 // Import Main CSS file from theme
-@import "main";
+@import "{{ site.theme }}";
