@@ -21,7 +21,7 @@ Details about the dataset construction and characteristics can be found in [our 
   booktitle    = {Joint Proceedings of Workshops at the 49th International Conference
                   on Very Large Data Bases {(VLDB} 2023), Vancouver, Canada, August
                   28 - September 1, 2023},
-  series       = {{CEUR} Workshop Proceedings},
+  series       = {CEUR Workshop Proceedings},
   volume       = {3462},
   publisher    = {CEUR-WS.org},
   url          = {https://ceur-ws.org/Vol-3462/TADA3.pdf},
