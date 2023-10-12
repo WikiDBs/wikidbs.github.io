@@ -3,5 +3,7 @@ plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 title: WikiDBs
 logo: Logo.png
+image:
+  teaser: Logo.png
 description: A corpus of relational databases.
 show_downloads: false
