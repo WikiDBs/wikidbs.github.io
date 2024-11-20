@@ -3,3 +3,7 @@
 // $primary: #16a085;
 // Import Main CSS file from theme
 @import "{{ site.theme }}";
+
+.wrapper {
+  width: 1060px;
+}
