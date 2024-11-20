@@ -1,3 +1,5 @@
+![WikiDBs logo](WikiDBs.png)
+
 # WikiDBs: A Large-Scale Corpus Of Relational Databases From Wikidata
 
 WikiDBs is a large-scale corpus of relational databases based on data from [Wikidata](https://www.wikidata.org/). Each database consists of multiple tables that are connected by foreign keys. 
