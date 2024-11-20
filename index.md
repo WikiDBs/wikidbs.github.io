@@ -1,4 +1,5 @@
 ![WikiDBs logo](WikiDBs.png)
+![WikiDBs authors](authors.png)
 
 # WikiDBs: A corpus of 100,000 real-world databases
 
@@ -9,6 +10,8 @@ WikiDBs contains the database schemas, as well as table contents.
 In WikiDBs, the database tables are provided as CSV files, and each database schema as JSON. The 100,000 databases are available in five splits, containing 20k databases each. In total, around 165 GB of disk space are needed for the full corpus.
 
 Download WikiDBs via Zenodo here: [https://zenodo.org/record/11559814](https://zenodo.org/record/11559814).
+
+Datasheet: [WikiDBs_Datasheet.pdf](WikiDBs_Datasheet.pdf)
 
 ## License Information
 We release WikiDBs under the [Creative Commons Attributions 4.0 International](https://creativecommons.org/licenses/by/4.0/) license (CC BY 4.0). Information regarding the license of data in Wikidata can be found [on this page](https://www.wikidata.org/wiki/Wikidata:Licensing).
@@ -54,9 +57,6 @@ To give a first impression of WikiDBs 10k, we offer a couple of sample databases
   year         = {2023},
 }
 ```
-
-## About
-WikiDBs is developed by Liane Vogel, Jan-Micha Bodensohn and Carsten Binnig from the Systems Group at the Technical University of Darmstadt, Germany as well as DFKI. 
 
 # Acknowledgments
 We thank Till Döhmen and Madelon Hulsebos for generously providing the table statistics from their [GitSchemas dataset](https://github.com/tdoehmen/gitschemas).
