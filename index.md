@@ -19,6 +19,14 @@ Download WikiDBs via Zenodo here: [https://zenodo.org/record/11559814](https://z
 
 Datasheet: [WikiDBs_Datasheet.pdf](WikiDBs_Datasheet.pdf)
 
+## Renaming
+The property names in Wikidata that we use as table and column names are often rather generic.
+To better reflect the domain language of each database, we use GPT-4o to rename the table and column names in WikiDBs and increase the variety of names.
+Our corpus includes both, the original names as well as the new names.
+
+![WikiDBs renaming](data/Renaming.png)
+
+
 ## License Information
 We release WikiDBs under the [Creative Commons Attributions 4.0 International](https://creativecommons.org/licenses/by/4.0/) license (CC BY 4.0). Information regarding the license of data in Wikidata can be found [on this page](https://www.wikidata.org/wiki/Wikidata:Licensing).
 
