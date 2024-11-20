@@ -1,9 +1,11 @@
 ![WikiDBs logo](WikiDBs.png)
 ![WikiDBs authors](authors.png)
 
-# WikiDBs: A corpus of 100,000 real-world databases
+# A corpus of 100,000 real-world databases
 
 WikiDBs is a large-scale corpus containing 100,000 relational databases from various domains. WikiDBs is based on data from [Wikidata](https://www.wikidata.org/). Each database consists of multiple tables that are connected by foreign keys. 
+
+WikiDBs was published as a [spotlight paper](https://openreview.net/pdf?id=abXaOcvujs) at the Dataset & Benchmarks track at NeurIPS 2024. 
 
 With WikiDBs, we aim to support the development of foundation models for tabular data and relational databases, as existing work on tabular representation learning so far mostly focuses on individual tables. 
 WikiDBs contains the database schemas, as well as table contents.
@@ -19,9 +21,7 @@ Datasheet: [WikiDBs_Datasheet.pdf](WikiDBs_Datasheet.pdf)
 We release WikiDBs under the [Creative Commons Attributions 4.0 International](https://creativecommons.org/licenses/by/4.0/) license (CC BY 4.0). Information regarding the license of data in Wikidata can be found [on this page](https://www.wikidata.org/wiki/Wikidata:Licensing).
 
 ## Publication
-WikiDBs was published as a Spotlight paper at the Dataset & Benchmarks track at NeurIPS 2024. 
-
-Read our paper: [https://openreview.net/pdf?id=abXaOcvujs](https://openreview.net/pdf?id=abXaOcvujs)
+WikiDBs paper: [https://openreview.net/pdf?id=abXaOcvujs](https://openreview.net/pdf?id=abXaOcvujs)
 
 ```
 @inproceedings{vogel2024wikidbs,
@@ -34,7 +34,7 @@ Read our paper: [https://openreview.net/pdf?id=abXaOcvujs](https://openreview.ne
 
 ```
 
-## Adapt WikiDBs to your needs
+## Code: Adapt WikiDBs to your needs
 The code of WikiDBs can be found on GitHub here: [https://github.com/DataManagementLab/wikidbs-public](https://github.com/DataManagementLab/wikidbs-public)
 
 You can adapt WikiDBs depending on your use case, e.g. by creating databases with particular data characteristics or in other languages that are included in Wikidata.
@@ -60,6 +60,6 @@ To give a first impression of WikiDBs 10k, we offer a couple of sample databases
 }
 ```
 
-# Acknowledgments
+## Acknowledgments
 We thank Till Döhmen and Madelon Hulsebos for generously providing the table statistics from their [GitSchemas dataset](https://github.com/tdoehmen/gitschemas).
 This work has been supported by the BMBF and the state of Hesse as part of the NHR Program and the HMWK cluster project 3AI. It was also partially funded by the LOEWE Spitzenprofessur of the state of Hesse. We also thank DFKI Darmstadt and hessian.AI for their support.
