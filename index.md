@@ -7,6 +7,8 @@ WikiDBs is a large-scale corpus containing 100,000 relational databases from var
 
 WikiDBs was published as a [spotlight paper](https://openreview.net/pdf?id=abXaOcvujs) at the Dataset & Benchmarks track at NeurIPS 2024. 
 
+![WikiDBs overview](WikiDBs_header.png)
+
 With WikiDBs, we aim to support the development of foundation models for tabular data and relational databases, as existing work on tabular representation learning so far mostly focuses on individual tables. 
 WikiDBs contains the database schemas, as well as table contents.
 
