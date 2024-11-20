@@ -3,7 +3,9 @@
 
 # WikiDBs: A corpus of 100,000 real-world databases
 
-WikiDBs is a large-scale corpus containing 100,000 relational databases from various domains. WikiDBs is based on data from [Wikidata](https://www.wikidata.org/). Each database consists of multiple tables that are connected by foreign keys. With WikiDBs, we aim to support the development of foundation models for tabular data and relational databases, as existing work on tabular representation learning so far mostly focuses on individual tables. 
+WikiDBs is a large-scale corpus containing 100,000 relational databases from various domains. WikiDBs is based on data from [Wikidata](https://www.wikidata.org/). Each database consists of multiple tables that are connected by foreign keys. 
+
+With WikiDBs, we aim to support the development of foundation models for tabular data and relational databases, as existing work on tabular representation learning so far mostly focuses on individual tables. 
 WikiDBs contains the database schemas, as well as table contents.
 
 ## Download WikiDBs
