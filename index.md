@@ -1,6 +1,8 @@
 ![WikiDBs logo](WikiDBs.png)
 ![WikiDBs authors](authors.png)
 
+[Download WikiDBs](https://zenodo.org/record/11559814)
+
 # A corpus of 100,000 real-world databases
 
 WikiDBs is a large-scale corpus containing 100,000 relational databases from various domains. WikiDBs is based on data from [Wikidata](https://www.wikidata.org/). Each database consists of multiple tables that are connected by foreign keys. 
@@ -69,6 +71,10 @@ To give a first impression of WikiDBs 10k, we offer a couple of sample databases
   year         = {2023},
 }
 ```
+## Contact
+WikiDBs is developed by Liane Vogel, Jan-Micha Bodensohn and Carsten Binnig from the Data & AI Systems Lab at TU Darmstadt and DFKI. 
+
+Mail: liane.vogel(at)cs.tu-darmstadt.de
 
 ## Acknowledgments
 We thank Till Döhmen and Madelon Hulsebos for generously providing the table statistics from their [GitSchemas dataset](https://github.com/tdoehmen/gitschemas).
