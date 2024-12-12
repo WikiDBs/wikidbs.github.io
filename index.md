@@ -16,6 +16,7 @@ WikiDBs contains the database schemas, as well as table contents.
 
 ## Download WikiDBs
 In WikiDBs, the database tables are provided as CSV files, and each database schema as JSON. The 100,000 databases are available in five splits, containing 20k databases each. In total, around 165 GB of disk space are needed for the full corpus.
+We also provide a script to convert the databases into SQLite.
 
 Download WikiDBs via Zenodo here: [https://zenodo.org/record/11559814](https://zenodo.org/record/11559814).
 
